@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Titillium+Web&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.header-owner{
+    margin-bottom: 80px;
+}
+.team{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.team-member{
+    background-color: #2f3d3c;
+    color: white;
+    border-radius: 8px;
+    width: 300px;
+    padding: 20px;
+    line-height: 20px;
+    position: relative;
+    margin: 30px;
+    margin-bottom: 50px;
+}
+.name{
+    margin-top: 70px;
+}
+.para{
+    color: darkgrey ;
+}
+.owner-img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translate(-50%);
+    padding: 5px;
+    background-color: #2f3d3c;
+}
+.owner-img img{
+    height: 120px;
+    width: 120px;
+   
+}

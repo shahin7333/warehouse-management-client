@@ -1,0 +1,167 @@
+[
+    {
+        "_id":1,
+        "name":"VELOCE",
+        "price":"$270",
+        "img":"https://i.ibb.co/BqpqChF/m-12.png"
+    },
+    {
+        "_id":2,
+        "name":"MUSTANG",
+        "price":"$120",
+        "img":"https://i.ibb.co/8r6r6Zj/m-5.png"
+    },
+    {
+        "_id":3,
+        "name":"VELOCE",
+        "price":"$160",
+        "img":"https://i.ibb.co/bWy8cKr/m-2.png"
+    },
+    {
+        "_id":4,
+        "name":"FALCON",
+        "price":"$170",
+        "img":"https://i.ibb.co/smVB7zy/m-3.png"
+    },
+    {
+        "_id":5,
+        "name":"HERO",
+        "price":"$10",
+        "img":"https://i.ibb.co/8r6r6Zj/m-5.png"
+    },
+    {
+        "_id":6,
+        "name":"HERCULES",
+        "price":"$170",
+        "img":"https://i.ibb.co/VpkCXht/m-6.png"
+    },
+    {
+        "_id":7,
+        "name":"PHOENIX",
+        "price":"$110",
+        "img":"https://i.ibb.co/jzH0HgB/m-7.png"
+    },
+    {
+        "_id":8,
+        "name":"MUSTANG",
+        "price":"$130",
+        "img":"https://i.ibb.co/1fmJVwV/m-8.png"
+    },
+    {
+        "_id":9,
+        "name":"HERCULES",
+        "price":"$120",
+        "img":"https://i.ibb.co/BqpqChF/m-12.png"
+    },
+    {
+        "_id":10,
+        "name":"FALCON",
+        "price":"$190",
+        "img":"https://i.ibb.co/8sYFVyJ/m-9.png"
+    },
+    {
+        "_id":11,
+        "name":"HERO",
+        "price":"$150",
+        "img":"https://i.ibb.co/rx60L9H/m-10.png"
+    },
+    {
+        "_id":12,
+        "name":"MUSTANG",
+        "price":"$170",
+        "img":"https://i.ibb.co/rGZpZpt/m-15.png"
+    },
+    {
+        "_id":13,
+        "name":"HERCULES",
+        "price":"$100",
+        "img":"https://i.ibb.co/zn9vxpc/m-20.png"
+    },
+    {
+        "_id":14,
+        "name":"MUSTANG",
+        "price":"$160",
+        "img":"https://i.ibb.co/rGZpZpt/m-15.png"
+    },
+    {
+        "_id":15,
+        "name":"HERO",
+        "price":"$150",
+        "img":"https://i.ibb.co/rx60L9H/m-10.png"
+    },
+    {
+        "_id":16,
+        "name":"FALCON",
+        "price":"$110",
+        "img":"https://i.ibb.co/DgN6RM2/m-13.png"
+    },
+    {
+        "_id":17,
+        "name":"PHONIEX",
+        "price":"$140",
+        "img":"https://i.ibb.co/y5kFLd9/m-18.png"
+    },
+    {
+        "_id":18,
+        "name":"FALCON",
+        "price":"$170",
+        "img":"https://i.ibb.co/YWBBkRs/m-19.png"
+    },
+    {
+        "_id":19,
+        "name":"VELOCE",
+        "price":"$210",
+        "img":"https://i.ibb.co/hLv3Nhn/m-16.png"
+    },
+    {
+        "_id":20,
+        "name":"HERO",
+        "price":"$170",
+        "img":"https://i.ibb.co/xhczDnj/m-21.png"
+    },
+    {
+        "_id":21,
+        "name":"HERCULES",
+        "price":"$180",
+        "img":"https://i.ibb.co/TK42464/m-22.png"
+    },
+    {
+        "_id":22,
+        "name":"HERO",
+        "price":"$120",
+        "img":"https://i.ibb.co/M5MkFSV/m-23.png"
+    },
+    {
+        "_id":23,
+        "name":"FALCON",
+        "price":"$190",
+        "img":"https://i.ibb.co/kXsQwSJ/m-24.png"
+    },
+    {
+        "_id":24,
+        "name":"VELOCE",
+        "price":"$170",
+        "img":"https://i.ibb.co/CHHrPk4/m-11.png"
+    }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

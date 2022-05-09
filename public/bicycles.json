@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "name":"VELOCE",
+        "price":"$170",
+        "img":"https://i.ibb.co/Pty6B1g/item5.png",
+        "description":"Veloce is the very first premium bicycle brand in Bangladesh.",
+        "quantity":"27",
+        "supplier":"Meghna Group"
+    },
+    {
+        "id":2,
+        "name":"MUSTANG",
+        "price":"$210",
+        "img":"https://i.ibb.co/VjY1J7s/item-6.png",
+        "description":"The Zoom Mechanical Disc brakes were powerful and quick. ",
+        "quantity":"19",
+        "supplier":"MUSTANG ALPA"
+    },
+    {
+        "id":3,
+        "name":"PHOENIX",
+        "price":"$120",
+        "img":"https://i.ibb.co/Cwm8kY1/item4.png",
+        "description":"Phoenix is a China-based trusted and popular cycle in Bangladesh.",
+        "quantity":"46",
+        "supplier":"PHOENIX MOUNTAIN"
+    },
+    {
+        "id":4,
+        "name":"FALCON",
+        "price":"$95",
+        "img":"https://i.ibb.co/P1M86Fk/item3.png",
+        "description":"FALCON was established in 1986 and specializes production of bicycle.",
+        "quantity":"39",
+        "supplier":"FALCON"
+    },
+    {
+        "id":5,
+        "name":"HERO",
+        "price":"$190",
+        "img":"https://i.ibb.co/4PJ0vkj/item2.png",
+        "description":"Hero Cycles Limited, based in Ludhiana, Punjab, is an Indian company",
+        "quantity":"29",
+        "supplier":"HERO CYCLE"
+    },
+    {
+        "id":6,
+        "name":"HERCULES",
+        "price":"$200",
+        "img":"https://i.ibb.co/YLpMNXD/item1.png",
+        "description":"The Hercules Cycle and Motor Company Limited was British manufacturer.",
+        "quantity":"17",
+        "supplier":"HERCULES GROUP"
+    }
+    
+]
