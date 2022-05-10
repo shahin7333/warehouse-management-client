@@ -1,6 +1,6 @@
 # Bicycle warehouse management
 
-the live site link is() 
+the live site link is(https://bi-cycle-warehouse-management.web.app/) 
 
 ## In this project
 here use bootstrap, react bootstrap to responsive the te site.
